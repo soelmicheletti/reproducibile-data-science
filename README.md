@@ -2,7 +2,7 @@
 
 Project repository for the course [Reproducible Data Science](https://www.coursicle.com/harvard/courses/BST/270/) (BST270) at Harvard University. 
 
-This course starts from a fundamental premise: the scientific method requires that work can be falsified or verified by others. For this reason, analysis of the data should be reproducible (i.e. given input data and computational tools, one should be able to rerun the same methods to obtain the same result) and preferrably replicable (i.e. a study should be duplicable using the same procedures and new data).
+This course starts from a fundamental premise: the scientific method requires that work can be verified or falsified by others. For this reason, analysis of the data should be reproducible (i.e. given input data and computational tools, one should be able to rerun the same methods to obtain the same result) and preferrably replicable (i.e. a study should be duplicable using the same procedures and new data).
 
 First, two links:
 
