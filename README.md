@@ -15,8 +15,8 @@ First, two links:
 
 As part of the course, we attempted to reproduce the results from two different works:
 
-- [This paper](https://www.ajconline.org/article/S0002-9149(13)00388-3/pdf) about the relationship between optimism and lipids. Our reproducibility analysis can be found in the ``midus`` folder. Check out the [README]("midus/README.md") for more information. 
+- [This paper](https://www.ajconline.org/article/S0002-9149(13)00388-3/pdf) about the relationship between optimism and lipids. Our reproducibility analysis can be found in the ``midus`` folder. Check out the [README](midus/README.md) for more information. 
 
 ## Appreciation
 
-Special thanks to [Viola Fanfani](https://violafanfani.github.io/) for inviting me to this class: it's been a very interesting experience!
+Special thanks to [Viola Fanfani](https://violafanfani.github.io/) for inviting me to take this class: it's been a very enriching experience!
