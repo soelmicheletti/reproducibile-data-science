@@ -6,7 +6,7 @@ This course starts from a fundamental premise: the scientific method requires th
 
 First, two links:
 
-- I wrote a non-comprehensive summary of the lectures. Check it out [here](TODO).
+- I wrote a non-comprehensive summary of the lectures. Check it out [here](/Summary.pdf).
 - [This](https://github.com/violafanfani/BST270-Winter2023) is the official repository of the course.
 
 ![Alt text](/cover.jpg?raw=true "Title")
