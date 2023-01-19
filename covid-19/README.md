@@ -18,9 +18,35 @@ In the following, we present and comment our results.
 
 ## 1. New cases as a function of time with a rolling average plot
 
+We attempted to reproduce the rolling plot below. 
+
+![image](img/nyt1.png)
+
+We obtained the following:
+
 ## 2. Table of cases, hospitalizations and deaths
 
+We attempted to reproduce the table depicted in the previous section. 
+
+We got: 
+
+- Overall number of cases: 23986856. This is coherent with the numbers above. 
+- Overall number of deaths: 397624. There is a difference of twelve from the numbers above. 
+- Cases in the last seven days: 170094. There is a difference of 450 cases from the numbers above. 
+- Deaths in the last seven days: 1730. This is the same as what is depicted above. 
+- Hospitalizations in the last seven days: 124387. This is coherent with the numbers above. 
+
 ## 3. The county-level map for previous week ('Hot spots')
+
+We attempted to reproduce the following figure. 
+
+![image](img/nyt2.png)
+
+We obtained the following:
+
+![image](img/map.png)
+
+On a high level, the maps look similar. For instance, in both maps we have higher number of cases in California, Texas, South Carolina, and Alaska. Most likely, however, there are differences due to the fact that we used outdated population census data. 
 
 ## 4. Table of cases by state
 
