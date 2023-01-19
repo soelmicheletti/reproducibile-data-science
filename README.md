@@ -16,7 +16,7 @@ First, two links:
 As part of the course, we attempted to reproduce the results from two different works:
 
 - [This paper](https://www.ajconline.org/article/S0002-9149(13)00388-3/pdf) about the relationship between optimism and lipids. Our reproducibility analysis can be found in the ``midus`` folder. Check out the [README](midus/README.md) for more information. 
-- COVID-19 tables and visualizations from [here](https://www.nytimes.com/interactive/2021/us/covid-cases.html). Our reproducibility analysis can be found in the ``covid-19`` folder. Check out the [README](covid-19/README.md) for more information. 
+- COVID-19 tables and visualizations from the [New York Times](https://www.nytimes.com/interactive/2021/us/covid-cases.html). Our reproducibility analysis can be found in the ``covid-19`` folder. Check out the [README](covid-19/README.md) for more information. 
 
 ## Appreciation
 
