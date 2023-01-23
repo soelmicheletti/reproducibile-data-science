@@ -20,4 +20,4 @@ As part of the course, we attempted to reproduce the results from two different 
 
 ## Appreciation
 
-Special thanks to [Viola Fanfani](https://violafanfani.github.io/) for inviting me to take this class: it's been a very enriching experience!
+Special thanks to [Viola Fanfani](https://violafanfani.github.io/) for inviting me to join the class and for the interesting discussions. 
